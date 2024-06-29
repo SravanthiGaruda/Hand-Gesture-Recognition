@@ -1,8 +1,4 @@
-Here's a basic README template for your GitHub repository:
-
----
-
-# Gesture Control for Cursor and Actions
+## Hand Gesture Recognition
 
 This project utilizes hand gesture recognition to control the cursor and perform various actions such as clicking, scrolling, and more. It is implemented using Python, OpenCV, Mediapipe, and PyAutoGUI.
 
